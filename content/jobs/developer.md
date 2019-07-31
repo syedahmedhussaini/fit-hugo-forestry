@@ -1,6 +1,5 @@
 +++
 department = "Tech"
-draft = true
 id = "developer"
 job_title = "Front-End Developer"
 

@@ -1,6 +1,5 @@
 +++
 department = "Operations"
-draft = true
 id = "csr"
 job_title = "Sr. Customer Service Repersentative"
 title = ""

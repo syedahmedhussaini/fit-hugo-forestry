@@ -27,4 +27,5 @@ fields:
       path: 
   label: Department
 pages:
+- content/jobs/file.md
 - content/jobs/developer.md

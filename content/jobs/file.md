@@ -1,8 +1,8 @@
 +++
-department = "Tech"
+department = "Operations"
 draft = true
-id = "developer"
-job_title = "Front-End Developer"
+id = "csr"
+job_title = "Sr. Customer Service Repersentative"
 title = ""
 
 +++

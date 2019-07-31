@@ -1,4 +1,28 @@
 ---
 label: Job post
 hide_body: false
-fields: []
+fields:
+- name: id
+  type: text
+  config:
+    required: true
+  label: ID
+- name: job_title
+  type: text
+  config:
+    required: true
+  label: Job title
+- name: department
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Tech
+    - Operations
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Department
